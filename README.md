@@ -1,6 +1,6 @@
-# Travel Routes App with Flutter and Google Maps
+# YaTravel - A travel routes app with Flutter and Google Maps
 
-The Travel Routes Flutter app integrates with Google Maps Platform using 'google_maps_flutter'. It offers users details on travel locations, points of interest, and efficient routing. Real-time geolocation is facilitated through the 'geolocator' package and Google's Geocoding API, which converts coordinates into user-friendly addresses.
+The YaTravel app integrates with Google Maps Platform using 'google_maps_flutter'. It offers users details on travel locations, points of interest, and efficient routing. Real-time geolocation is facilitated through the 'geolocator' package and Google's Geocoding API, which converts coordinates into user-friendly addresses.
 
 The app is connected with three main APIs:
 * The Places API provides detailed insights into locations, including photos and operating hours.
